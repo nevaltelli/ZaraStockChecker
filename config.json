@@ -1,10 +1,10 @@
 {
     "urls": [
-        "https://www.zara.com/tr/tr/dugumlu-ajurlu-triko-elbise-p02756024.html?v1=367462396",
+         "https://www.zara.com/tr/tr/z1975-denim-mini-elbise-p01879038.html?v1=370616574"
+        "https://www.zara.com/tr/tr/basic-crop-blazer-p01255763.html?v1=336799607",
         "https://www.zara.com/tr/tr/parlak-tasli-kisa-elbise-p04764302.html?v1=363971227"
     ],
-    "sizes_to_check": ["XS", "S"],
-    "sleep_min_seconds": 600,  
-    "sleep_max_seconds": 720,  
-    "chrome_driver_path": "../../DesktopHolder/chromedriver-win64/chromedriver.exe"
-}
+    "sizes_to_check": ["L", "XL"],
+    "sleep_min_seconds": 60,  
+    "sleep_max_seconds": 72,  
+    "chrome_driver_path":https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.126/linux64/chrome-linux64.zip}
